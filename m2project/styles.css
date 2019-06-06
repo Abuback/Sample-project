@@ -1,0 +1,86 @@
+
+*{
+    box-sizing:border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+  
+}
+.text{
+  color: #f1f1f1;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#1D3461;
+    
+    
+  }
+  #logo{
+    padding: 0;
+    margin: 0;
+    color: beige;
+    
+  }
+  
+  
+ #nav {
+    overflow: hidden;
+    background-color: white;
+  }
+
+  #nav a{
+    width: 30%;
+    float: left;
+    display: block;
+    color: #0f0f0f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  #nav a:hover{
+    background-color: #ddd;
+    color: black;
+  }
+  #pageContent{
+      overflow: hidden;
+      width: 100%;
+    background-color: #1D3461;
+    padding: 15px;
+    min-height: 400px;
+    height: auto;
+  }
+
+
+.details img{
+    width:40%;;
+   padding: 0;
+  height: 350px;
+  margin:0 20% 0 ;
+  
+  
+  
+}
+.details {
+   
+   margin: 0;
+   width: 100%;
+   
+ }
+.details td .img{
+    width: 0%;
+      padding:0;
+    border: 0;
+    margin: 0
+    
+    
+}
+#footer {
+   
+    background-color: #f1f1f1;
+  padding: 10px;
+  }
+
+  #curBlock form{
+    background-color: #4CAF50;
+    
+  }

@@ -1,0 +1,36 @@
+{
+    "details":[
+        {
+            "id":1,
+            "course":"programming in Java",
+            "imgpath":"image/java.png",
+            "cost":700,
+            "location":"java.html"
+            
+            
+            
+        },
+        {
+            "id":2,
+            "course":"programming in i.NET",
+            "imgpath":"image/dotnet.png",
+            "cost":400,
+            "location":"inet.html"
+
+        },
+        {
+            "id":3,
+            "course":"Microsoft Office",
+            "imgpath":"image/microsoft.png",
+            "cost":300,
+            "location":"mo.html"
+        },
+        {
+            "id":4,
+            "course":"HTML5",
+            "imgpath":"image/html.png",
+            "cost":500,
+            "location":"html.html"
+        }
+    ]
+}
